@@ -1,2 +1,2 @@
 # SIT-Lab-4
-Arduino Interfacing with Simulink
+To interface Arduino with Simulink and using Inbuild LED for verification.
